@@ -72,6 +72,10 @@ Lessons and labs:
     1. [US_Baby_Names](https://github.com/HassanAlgoz/pandas_exercises/tree/master/06_Stats/US_Baby_Names/Exercises.ipynb)
     2. [Wind_Stats](https://github.com/HassanAlgoz/pandas_exercises/tree/master/06_Stats/Wind_Stats/Exercises.ipynb)
 
+#### Videos
+
+If you like walkthroughs, follow this [YouTube Playlist](https://www.youtube.com/playlist?list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv) which go through the exercises as well.
+
 ## Module 3: Descriptive Statistics
 
 ### M3-1: Statistical Analysis
